@@ -1,31 +1,28 @@
 # CSharp-Basics
 
-Este repositório reúne alguns dos meus primeiros projetos desenvolvidos durante o aprendizado da linguagem C#. Os códigos seguem as etapas do curso "[C# primeiros passos: Lógica de Programação e Algoritmos](https://www.udemy.com/course/logica-de-programacao-csharp/?couponCode=MTST7102224A2)" disponível na Udemy, ministrado pelo professor Dr. Nelio Alves.
+Este repositório reúne os primeiros projetos desenvolvidos durante meu aprendizado da linguagem C#, seguindo as etapas do curso ["C# Primeiros Passos: Lógica de Programação e Algoritmos"](https://www.udemy.com/course/logica-de-programacao-csharp/?couponCode=MTST7102224A2) disponível na Udemy e ministrado pelo professor Dr. Nelio Alves. O objetivo deste repositório é registrar os conceitos aprendidos e apresentar aplicações práticas para resolver problemas de programação.
 
-O objetivo é registrar o que aprendi ao longo do curso, apresentando projetos que exemplificam como aplicar os conceitos aprendidos para resolver problemas básicos de programação.
+Contém exemplos introdutórios para compreender a sintaxe e a estrutura básica do C#, desenvolvendo programas simples que exploram variáveis, tipos de dados, operadores e automatização de tarefas.
 
-## 📚 Sobre o Curso
+## 📚 Conteúdo
 
-O curso aborda os conceitos essenciais de lógica de programação com linguagem C# utilizando o Visual Studio como ambiente de desenvolvimento. Os principais tópicos abordados incluem:
+Os projetos do repositório seguem o conteúdo do curso da linguagem C#, abrangendo os conceitos essenciais de lógica de programação.
+
+Os principais tópicos abordados incluem:
 
 - **Estrutura Sequencial:** Entrada, processamento e saída de dados
-- **Estrutura Condicional:** Controle de fluxo com if/else
-- **Estruturas Repetitivas:** Laços de repetição como `while` e `for`
-- **Vetores e Matrizes:** Manipulação de dados em coleções
+- **Estrutura Condicional:** Controle de fluxo (`if`, `else`, `switch`)
+- **Estruturas Repetitivas:** Laços de repetição (`while`, `for`, `do-while`)
+- **Vetores e Matrizes:** Manipulação de dados em coleções. 
 - **Expressões Aritméticas, Comparativas e Lógicas**
-- **Depuração e Testes:** Aprendizado prático por meio de execução e testes manuais
+- **Depuração e Testes:** Problemas práticos com execução e testes manuais
 
-Para mais detalhes sobre o curso, acesse a [página do curso](https://www.udemy.com/course/logica-de-programacao-csharp/?couponCode=MTST7102224A2).
-
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
 - **Linguagem:** C#
 - **IDE:** Microsoft Visual Studio
+- **Recursos Adicionais:** Materiais de apoio fornecidos pelo curso, como slides, exemplos de código e artigos complementares.
 
-## 📈 Progresso
+## 📜 Licença
 
-- **Primeiros projetos:** Exemplos introdutórios para compreensão básica de sintaxe e estrutura de um programa C#.
-- **Cálculo de média e conversão:** Aplicações simples que usam operações matemáticas e estrutura sequencial.
-- **Verificadores e calculadoras:** Uso de estruturas condicionais para tomada de decisões.
-- **Laços de repetição:** Implementações de contadores e geradores de tabelas (ex.: tabuada).
-- **Vetores e matrizes:** Manipulação e operações em coleções de dados.
+Este repositório é livre para uso e estudo. Sinta-se à vontade para explorar os exemplos e utilizar o código como base para aprendizado.
